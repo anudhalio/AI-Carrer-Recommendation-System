@@ -60,7 +60,7 @@ The project uses a hybrid approach combining:
 
 These factors contribute to the final career recommendation score.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 AI_Career_Recommendation_System/
@@ -74,7 +74,7 @@ AI_Career_Recommendation_System/
 └── README.md
 ```
 
-## 🚀 Installation and Setup
+## Installation and Setup
 
 
 **Step 1: Navigate to the project folder**
@@ -95,18 +95,18 @@ pip install -r requirements.txt
 streamlit run app/app.py
 ```
 
-## 🎓 Project Applications
+## Project Applications
 - Student career guidance
 - Career planning and exploration
 - Skill-based job recommendations
 - Educational and professional development
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - Integration with real-time job market data.
 - Resume analysis and skill extraction.
 - More career categories and job roles.
 - Personalized learning and skill development paths.
 - Integration with job portals.
 
-## 📜 License
+## License
 This project is developed for academic and educational purposes.
