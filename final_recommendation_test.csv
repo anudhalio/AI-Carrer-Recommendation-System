@@ -1,0 +1,12 @@
+career,category,final_score,skill_score,interest_score,education_score,aptitude_score,industry_score,nlp_similarity,matching_skills,skills_to_improve,average_salary,minimum_salary,maximum_salary
+AI / Machine Learning Engineer,Artificial Intelligence,82.09,80.0,50.0,100,100.0,100,61.83,"machine learning, python, research, sql",aws,94971.88,40000.0,150000.0
+Data Scientist,Data Science,81.5,80.0,50.0,100,100.0,100,50.03,"machine learning, python, research, sql",excel,94840.61,40000.0,150000.0
+Research Scientist,Research,81.09,100.0,25.0,100,93.33,100,41.72,"machine learning, python, research, sql",,94955.09,40000.0,150000.0
+Cybersecurity Analyst,Cybersecurity,76.01,100.0,0.0,100,100.0,100,20.13,"python, research, sql",,92725.54,40000.0,150000.0
+Software Developer,Software Development,66.12,66.67,0.0,100,100.0,100,22.45,"python, sql",java,96330.79,40000.0,149000.0
+Cloud / DevOps Engineer,Cloud Computing,65.5,66.67,0.0,100,100.0,100,10.07,"python, sql",aws,94834.67,40000.0,150000.0
+Web Developer,Web Development,64.56,66.67,0.0,100,93.33,100,11.18,"python, sql",react,96670.89,40000.0,149000.0
+Data Analyst,Data Analytics,56.89,40.0,0.0,100,93.33,100,17.84,"python, sql","excel, financial modeling, market research",95393.89,40000.0,150000.0
+Business Analyst,Business Analytics,51.28,25.0,0.0,100,86.67,100,15.52,sql,"excel, financial modeling, market research",92725.54,40000.0,150000.0
+Financial Analyst,Finance,43.53,20.0,0.0,100,93.33,30,10.52,sql,"excel, financial modeling, market research, risk analysis",94126.46,40000.0,150000.0
+Digital Marketing Specialist,Digital Marketing,43.34,0.0,0.0,100,86.67,100,6.72,,"content writing, google ads, market research, seo, social media",100979.94,40000.0,150000.0
